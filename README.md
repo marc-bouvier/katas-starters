@@ -22,4 +22,6 @@ Des points de départ pour plusieurs langages sont présents dans ce repo.
 * [Kotlin maven kotlin-test](fizzbuzz/kata-fizzbuzz-kotlin)
 * [Javascript (es6) nodejs jest](fizzbuzz/kata-fizzbuzz-js-jest)
 * [Elixir](fizzbuzz/kata-fizzbuzz-elixir)
+* [Python pytest](fizzbuzz/kata-fizzbuzz-python/pytest)
+* [Python unittest](fizzbuzz/kata-fizzbuzz-python/unittest)
 
