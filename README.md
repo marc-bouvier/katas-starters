@@ -18,8 +18,8 @@ Des starters pour commencer rapidement les katas pour différents langages.
 
 Des points de départ pour plusieurs langages sont présents dans ce repo.
 
-* [Java maven Junit5](fizzbuzz/kata-fizzbuzz-java/README.md)
-* [Kotlin maven kotlin-test](fizzbuzz/kata-fizzbuzz-kotlin/README.md)
-* [Javascript (es6) nodejs jest](fizzbuzz/kata-fizzbuzz-js-jest/README.md)
-* [Elixir](fizzbuzz/kata-fizzbuzz-elixir/README.md)
+* [Java maven Junit5](fizzbuzz/kata-fizzbuzz-java)
+* [Kotlin maven kotlin-test](fizzbuzz/kata-fizzbuzz-kotlin)
+* [Javascript (es6) nodejs jest](fizzbuzz/kata-fizzbuzz-js-jest)
+* [Elixir](fizzbuzz/kata-fizzbuzz-elixir)
 
