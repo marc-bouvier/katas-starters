@@ -1,5 +1,8 @@
 # Fizz Buzz - Java
 
+* installer un jdk : https://adoptopenjdk.net/
+* installer maven :  https://maven.apache.org/
+
 ```
 mvn clean install
 ```
