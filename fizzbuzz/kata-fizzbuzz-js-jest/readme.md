@@ -1,29 +1,43 @@
 # FizzBuzz avec javascript et Jest
 ## Prérequis
 
-* installer nodejs
+* installer nodejs (npm est inclus avec) : https://nodejs.org/en/
+* optionnel installer yarn : https://yarnpkg.com
+
 ## Installation
+
+Avec Npm
 
 ```bash
 npm install
 ```
 
-## Running the tests
+Avec Yarn
+
+```bash
+yarn
+```
+
+## Exécution des tests
+
+Avec Npm
 
 ```bash
 npm test
 ```
 
-Or you can use built-in watch mode:
+Avec yarn
+
+```bash
+yarn test
+```
+
+Ou mode "watch"
 
 ```bash
 npm run test:watch
 ```
 
-## Show coverage
-
 ```bash
-npm run test:cover
+yarn test:watch
 ```
-
-Note: coverage is also included in watch mode.
