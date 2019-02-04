@@ -1,3 +1,5 @@
 .idea
 .iml
 fizzbuzz/kata-fizzbuzz-js-jest/node_modules
+fizzbuzz/kata-fizzbuzz-elixir/_build
+fizzbuzz/kata-fizzbuzz-elixir/.elixir_ls
