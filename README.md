@@ -34,12 +34,22 @@ Voici des exemples de contraintes.
 
 * Pas de `if`, `switch` ou de boucle
 * Dans un langage que tu ne connais pas
-* Baby steps
+
+#### Baby steps
+
   1. mettre en place un repo git (ou autre mais qui doit supporter `reset`)
   2. Mettre un timer de 2 minutes quand on commence
   3. écrire exactement 1 test
-      * si le timer sonne et que le test est rouge `revert` et recommencer
+      * si le timer sonne et que le test est rouge `revert` et tout recommencer
       * si le test est vert avant la fin du timer, réinitialise le timer et continue
   4. redémarre le timer
   5. retour à l'étape iii.
   
+**Astuces**
+
+* chaque paire devrait 'reset' au moins une fois
+* c'est tout à fait normal de passer des itérations pour faire uniquement des refactorings (tant que les tests sont vert c'est OK)
+* ne pas hesiter à discuter sur ce qui peut être nécessaire entre les cycles
+* la partie la plus importante est d'avoir des tests verts. Ta code base ne devrait jamais être au rouge moins de 2 minutes
+
+
