@@ -1,0 +1,3 @@
+fizzbuzz = function(number){
+    return ""
+}
