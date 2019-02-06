@@ -41,5 +41,5 @@ Voici des exemples de contraintes.
       * si le timer sonne et que le test est rouge `revert` et recommencer
       * si le test est vert avant la fin du timer, réinitialise le timer et continue
   4. redémarre le timer
-  5. retour à l'étape 3.
+  5. retour à l'étape iii.
   
