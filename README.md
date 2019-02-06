@@ -26,3 +26,20 @@ Des points de départ pour plusieurs langages sont présents dans ce repo.
 * [Python pytest](fizzbuzz/kata-fizzbuzz-python/pytest)
 * [Python unittest](fizzbuzz/kata-fizzbuzz-python/unittest)
 
+### Contraintes
+
+Si le sujet te semble très (trop?) facile tu peux y ajouter des contraintes.
+
+Voici des exemples de contraintes.
+
+* Pas de `if`, `switch` ou de boucle
+* Dans un langage que tu ne connais pas
+* Baby steps
+  1. mettre en place un repo git (ou autre mais qui doit supporter `reset`)
+  2. Mettre un timer de 2 minutes quand on commence
+  3. écrire exactement 1 test
+    * si le timer sonne et que le test est rouge `revert` et recommencer
+    * si le test est vert avant la fin du timer, réinitialise le timer et continue
+  4. redémarre le timer
+  5. retour à l'étape 3.
+  
