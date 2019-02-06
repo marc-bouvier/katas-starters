@@ -21,6 +21,7 @@ Des points de départ pour plusieurs langages sont présents dans ce repo.
 * [Java maven Junit5](fizzbuzz/kata-fizzbuzz-java)
 * [Kotlin maven kotlin-test](fizzbuzz/kata-fizzbuzz-kotlin)
 * [Javascript (es6) nodejs jest](fizzbuzz/kata-fizzbuzz-js-jest)
+* [Javascript vanilla qunit](fizzbuzz/kata-fizzbuzz-js-vanilla-qunit) ne requiert pas npm et peut être lancé dans un navigateur
 * [Elixir](fizzbuzz/kata-fizzbuzz-elixir)
 * [Python pytest](fizzbuzz/kata-fizzbuzz-python/pytest)
 * [Python unittest](fizzbuzz/kata-fizzbuzz-python/unittest)
