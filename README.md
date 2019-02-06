@@ -34,6 +34,13 @@ Voici des exemples de contraintes.
 
 * Pas de `if`, `switch` ou de boucle
 * Dans un langage que tu ne connais pas
+* [Mob programming](http://kata-log.rocks/mob-programming)
+* [Mute ping-pong](http://kata-log.rocks/mute-ping-pong)
+* [Object calisthenics](https://williamdurand.fr/2013/06/03/object-calisthenics/)
+* [tell don't ask!](http://kata-log.rocks/tell-dont-ask)
+* [no primitives](http://kata-log.rocks/no-primitives)
+* [simple design](http://kata-log.rocks/simple-design)
+* [the 70s compiler](http://kata-log.rocks/the-70s-compiler)
 
 ### Baby steps
 
